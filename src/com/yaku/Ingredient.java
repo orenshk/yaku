@@ -5,4 +5,5 @@ package com.yaku;
  * Interface defining an Ingredient object.
  */
 public interface Ingredient {
+    // this is a comment
 }
